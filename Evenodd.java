@@ -1,3 +1,6 @@
+
+//Day1 (Didnt even now how to use control statement for this program.)
+//question from hackerrank
 public class Evenodd{
 
      public static void main(String []args)
