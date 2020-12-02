@@ -12,11 +12,11 @@ Here i used this link to learn all about ifelse conditional statement.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 2: December 2nd, 2020 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed evenodd program which cleared all my doubts about conditional statements.i think i can use them proper;y in the future.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Apparently the nextint() takes empty input when it is used .So for string inout we must keep few things in mind.The scanner class used for reading inout is nt the only way.This one small basic program led to many errors and through them i learned alot.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: The work is uploaded as a file to understand my progress.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 3: December 3rd,2020
