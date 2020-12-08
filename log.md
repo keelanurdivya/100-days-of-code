@@ -21,23 +21,21 @@ Day 2: December 2nd, 2020
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 3: December 3rd,2020
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Forgot to save changes yesterday.I completed prime number nd factorial programming all buy myself
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**i hadtrouble coding my logic all by myself.Today i was able to boost myself.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1.uploaded the code .
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 4: December 4th, 2020 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Today's Progress**: Planned on how to learn programming through this month and started with control statements.Tried programming evenodd program.
+**Today's Progress**: Completed 5 challenges in Hacker rank
 
-**Thoughts:** I really struggled with that one program .I wasnt able to understand the logic for using else if or nested if .Will try again tomorow.
+**Thoughts:** struggled today !!!!(gosh)
 
-**Link to work:** [Evenodd program](https://stackoverflow.com/questions/9169249/why-we-use-if-else-if-instead-of-multiple-if-block-if-the-body-is-a-return-stat)
-Here i used this link to learn all about ifelse conditional statement.
+**Link to work:** Took help!! Hacker rank problem solutions in poorcoder.com
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 5: December 5th, 2020 
