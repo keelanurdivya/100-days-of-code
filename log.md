@@ -40,11 +40,15 @@ Day 4: December 4th, 2020
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 5: December 5th, 2020 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Made new connections and study group through discord.Found amazing resource and made a road map for oops concepts and Data Structures and 
+Algo.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Gone through the road map nd cant wait to start tomorw .
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
+1)https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
+2)https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+3)https://visualgo.net/en
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 6: December 6th,2020
