@@ -67,17 +67,17 @@ Day 7: December 7th, 2020
 
 **Thoughts:** I really struggled with that one program .I wasnt able to understand the logic for using else if or nested if .Will try again tomorow.
 
-**Link to work:** [Evenodd program](https://stackoverflow.com/questions/9169249/why-we-use-if-else-if-instead-of-multiple-if-block-if-the-body-is-a-return-stat)
+**Link to work:** [Evenodd program] https://stackoverflow.com/questions/9169249/why-we-use-if-else-if-instead-of-multiple-if-block-if-the-body-is-a-return-stat
 Here i used this link to learn all about ifelse conditional statement.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 8: December 8th, 2020 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on increment / decrement operators .understood how it works perfectly with programs and also gathered info about type casting and type conversions.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: i found it different for converting int to string or string to int.the rest were the same .i wonder if i missed sumthng. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Day 9: December 9th,2020
